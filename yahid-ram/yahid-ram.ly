@@ -13,9 +13,9 @@
 \header {
   title = "Yah Yaḥid Ram"
   % misusing header fields until I can figure out how to code custom ones in Lilypond
-  composer = \markup { \fontsize #-2 "Piyyut by R. Israel Najara (1555-1625)" }
-  piece = \markup { \fontsize #-2 "Performance by Yair Dalal transcribed by Lexa Koszegi" }
-  poet = \markup { \fontsize #-2 "Maqam: Rast on C" }
+  % composer = \markup { \fontsize #-2 "Piyyut by R. Israel Najara (1555-1625)" }
+  % piece = \markup { \fontsize #-2 "Performance by Yair Dalal transcribed by Lexa Koszegi" }
+  poet = \markup { \fontsize #-2 "Maqam: Kurd on C" }
 }
 
 \score {
